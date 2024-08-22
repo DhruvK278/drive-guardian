@@ -94,6 +94,6 @@ torchvision
 ## Contributions and Acknowledgments
 This project is open for contributions, and we welcome any feedback or suggestions for improvement. If you find this project useful, feel free to use it for your needs. When attributing this project, please mention:
 ```
-Drive Guardian by Dhruv Kumar & Rohan Pandet
+Drive Guardian by Dhruv Kumar & Rohan Pandey
 Repository: https://github.com/DhruvK278/drive-guardian
 ```
